@@ -26,4 +26,4 @@ scrape_configs:
     # scheme defaults to 'http'.
 
     static_configs:
-      - targets: ["https://litellm-main-v1-35-1-dev2.onrender.com"]
+      - targets: ['litellm-main-v1-35-1-dev2.onrender.com']
